@@ -1,0 +1,81 @@
+
+html{
+	position: relative;
+	min-height: 100%;
+	margin: 0;
+}
+
+body{
+	margin-bottom: 70px;
+}
+
+
+h2{
+	border-bottom: 1px solid #000;
+}
+
+#footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #373c42;
+	font-size: 0.9em;
+	height: 50px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+.table-bottom{
+	height: 40px;
+	padding: 10px 0;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+.bottom-nav{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+
+
+
+.box-button{
+	display: inline-block;
+	
+}
+
+#pencarian {
+	border-bottom: 1px solid #000;
+	padding-bottom: 10px;
+}
+
+
+
+/*.paging{
+	margin-right: 100px;
+	padding-bottom: 100px;
+	float: right;
+	text-align: right;
+}
+
+.*//*paging ul.pager, .paging ul.pagination{
+	text-align: right;
+}*/
+
+/*ul.pagination, ul.pager{
+	margin-bottom: 30px;
+}
+
+.jumlah-data, .paging{
+	width: 50%;
+	height: 50px;
+	display: block;
+}
+
+.jumlah-data{
+	float: left;
+	padding-top: 15px;
+}
+*/
